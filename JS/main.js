@@ -3,7 +3,7 @@ const { createApp } = Vue;
 const app = createApp({
     data() {
         return {
-            title: 'Hello world',
+            title: 'API-Email Boolean',
             listEmail: [],
         };
     },

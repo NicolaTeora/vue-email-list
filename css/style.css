@@ -1,0 +1,16 @@
+#app{
+    height: 100vh;
+    background-color: antiquewhite;
+    overflow: hidden;
+}
+
+.title-project{
+    color: darkblue;
+    text-shadow: 3px 3px 2px lightgreen;
+}
+
+ol li{
+    margin: 5px;
+    background-color: lightgreen;
+    font-weight: bold;
+}
